@@ -8,13 +8,50 @@
 - Work on **real-time streaming** pipelines for event-driven systems.
 - Design **lakehouse-style** architectures (bronze/silver/gold) with strong data quality checks.
   
-## 🧰 Tech Stack
-• Programming languages: Python (Pandas, NumPy), SQL.
-• Data Engineering & Pipelines: ETL/ELT, batch & streaming ingestion, orchestration (Airflow, Dbt).
-• Cloud Platform: Azure (ADLS Gen2, ADF, Synapse Analytics, Databricks, Event Hubs).
-• Big Data: Delta Lake, Apache Spark (PySpark), Kafka, Terraform.
-• Databases: Snowflake, PostgreSQL, MySQL.
-• GenAI, LLMs & Search: HuggingFace Transformers, RAG Pipelines, Elasticsearch.
-• Data Modeling & Architecture: Dimensional Modeling (Star/Snowflake schema), Agile/Scrum, Jira.
-• DevOps & Automation: CI/CD (Azure DevOps, GitHub Actions), Git (Version Control).
-• Analytics & Visualization: Power BI, Tableau, Excel.
+## 🧠 Skills & Technologies
+
+**Programming Languages**  
+- Python (Pandas, NumPy), SQL
+
+**Data Engineering & Pipelines**  
+- ETL / ELT pipelines  
+- Batch & streaming ingestion  
+- Workflow orchestration: Airflow, dbt
+
+**Cloud Platform (Azure)**  
+- Azure Data Lake Storage Gen2 (ADLS Gen2)  
+- Azure Data Factory (ADF)  
+- Azure Synapse Analytics  
+- Azure Databricks  
+- Azure Event Hubs
+
+**Big Data & Streaming**  
+- Apache Spark (PySpark)  
+- Delta Lake  
+- Apache Kafka  
+- Terraform (Infrastructure as Code)
+
+**Databases & Warehouses**  
+- Snowflake  
+- PostgreSQL  
+- MySQL
+
+**GenAI, LLMs & Search**  
+- HuggingFace Transformers  
+- Retrieval-Augmented Generation (RAG) pipelines  
+- Elasticsearch
+
+**Data Modeling & Architecture**  
+- Dimensional Modeling (Star & Snowflake schemas)  
+- Data architecture principles  
+- Agile / Scrum, Jira
+
+**DevOps & Automation**  
+- CI/CD pipelines (Azure DevOps, GitHub Actions)  
+- Git (Version Control)
+
+**Analytics & Visualization**  
+- Power BI  
+- Tableau  
+- Excel
+
