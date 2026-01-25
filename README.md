@@ -13,7 +13,7 @@
 **Programming Languages:** Python (Pandas, NumPy), SQL  
 **Data Engineering & Pipelines:** ETL/ELT, batch and streaming ingestion, workflow orchestration using Airflow and dbt  
 **Cloud Platform:** Azure (ADLS Gen2, Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure Event Hubs)  
-**Big Data & Streaming:** Apache Spark (PySpark), Delta Lake, Apache Kafka, Terraform  
+**Big Data & Streaming:** Apache Spark (PySpark), Delta Lake, Apache Kafka
 **Databases & Warehouses:** Snowflake, PostgreSQL, MySQL  
 **GenAI, LLMs & Search:** HuggingFace Transformers, Retrieval-Augmented Generation (RAG) pipelines, Elasticsearch  
 **Data Modeling & Architecture:** Dimensional modeling (Star and Snowflake schemas), Agile/Scrum, Jira  
