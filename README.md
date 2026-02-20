@@ -22,7 +22,6 @@
 ## 👩‍💻 About Me
 
 - 🔧 ServiceNow Developer with **3+ years** of experience building and automating enterprise ITSM solutions
-- 🏢 Currently working at **Pfizer** as a ServiceNow Developer
 - 🎓 Master of Science in Computer Science — **Texas Tech University**
 - 💡 Passionate about **AI-driven automation**, workflow optimization, and scalable ServiceNow architecture
 - 🌍 Based in the **United States**
