@@ -93,16 +93,7 @@
 ## 📜 Certifications
 
 - ✅ ITIL V4 Foundation Level Certificate
-- ✅ Microsoft Certified Azure Data Fundamentals
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saipravallika2001&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saipravallika2001&layout=compact&theme=tokyonight" width="48%" />
-</p>
+- ✅ Microsoft Certified Azure Data Fundamentals.
 
 ---
 
